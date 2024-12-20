@@ -1,4 +1,4 @@
-# Data Binding in Angular: Detailed Explanation
+# Data Binding in Angular
 
 Data binding is the communication bridge between the TypeScript component and the HTML template. Angular provides several types of data binding techniques for building dynamic and interactive user interfaces.
 
